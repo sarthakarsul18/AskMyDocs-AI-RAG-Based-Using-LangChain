@@ -11,3 +11,5 @@ langchain-community
 langchain-core
 langchain-huggingface
 langgraph
+pypdf
+PyPDF2
